@@ -5,6 +5,8 @@
 >Goal:
 Recreate the route and information online of the Gymkhana for the MDEF Fest.
 
+![system diagram](images/design.jpeg)
+
 ## Areas of Interest
 
 ![Our mindmap](images/mindmap.png)
@@ -41,6 +43,7 @@ The idea comes from wanting to connect other people who do not have the opportun
 
 
 ## Materials and Digital Fabrication
+
 In order to develop the online interaction we need the physical interaction first. And then we need to create the online circuit.
 
 Physical Interaction
@@ -57,3 +60,19 @@ The Digital Fabrication that we use are:
   * Illustrator (Inskcape it's open resource it could be used too)
   * Marzipano
   * Atom
+
+
+## Brainstorming
+
+We wanted to make a balanced circuit between the different types of play. We also wanted to think about where we could do the online interaction. Since the physical location has not been decided yet. So we have decided on a place for each game, which is related to its story and function.
+
+The games we are going to present will be:
+
+| Order | Game | Location | Author |
+|-------|-----------------|-----------------------|---------------------|
+| 1 | Anilla(s) | Bike Parking IAAC | George, Kai & Anna |
+| 2 | Pintat | Butterfly Park | Kai |
+| 3 | Modular Furniture | IAAC Roof | Anna |
+| 4 | Crosshabit | SuperIlla | Borka |
+| 5 | La Diana | Street | George, Kai & Anna |
+| 6 | Forest Game | Park | Anna |
