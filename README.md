@@ -66,6 +66,8 @@ The Digital Fabrication that we use are:
 
 We wanted to make a balanced circuit between the different types of play. We also wanted to think about where we could do the online interaction. Since the physical location has not been decided yet. So we have decided on a place for each game, which is related to its story and function.
 
+![Our plan](images/brainstorming.jpeg)
+
 The games we are going to present will be:
 
 | Order | Game | Location | Author |
@@ -76,3 +78,5 @@ The games we are going to present will be:
 | 4 | Crosshabit | SuperIlla | Borka |
 | 5 | La Diana | Street | George, Kai & Anna |
 | 6 | Forest Game | Park | Anna |
+
+## Test 1
