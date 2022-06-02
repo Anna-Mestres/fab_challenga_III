@@ -81,7 +81,7 @@ The games we are going to present will be:
 
 ## Test 1
 For test 1, Josep gave us a 360• camera that we had to test to see if it worked for the things that we were imagining. We test it at 
-
+https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/class.jpeg
 
 
 ## Drawing the Posters
