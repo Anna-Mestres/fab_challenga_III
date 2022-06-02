@@ -106,3 +106,17 @@ Forest Game: A build up game with natural materials.
 La Diana: Throwing stones to the target.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/modular_furniture.jpeg">
 Modular Furniture: Building furniture game that you can stand on it.
+
+## Interaction with Website
+Building up a website that we didn't knew about it was very interesting.
+At first, when we try it, we uploaded pitures that weren't with the properties that the website asked and it didn'r work. 
+We starte using the 360• camera. 
+We modified de website by coding and javascript, changing the colors and the format of it.
+We didi an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't minf but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by drawing on it. Sorry, Nikkita!
+At the end, the page looks great!
+Below, our welcoming page and one of the games.
+<img width="1436" alt="Portada" src="https://user-images.githubusercontent.com/92103119/171667178-e00d98cc-afa4-450d-82b9-4f3e5dfcdecd.png">
+<img width="1437" alt="Screen Shot 2022-06-02 at 17 38 23" src="https://user-images.githubusercontent.com/92103119/171667250-e03af7b8-e132-4cfa-8a08-2a4beb7679eb.png">
+
+
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg">
