@@ -97,7 +97,12 @@ We laser cut the drawings that we made on illustrator and cut them into 25cm x 2
 We took 360• pictures of the games we are using for the Gymkhana.
 See below:
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg">
+The aniilas game: Is a throwing rings into the sticks of the toy.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg">
+Crosshabit: Imagining cities for all of us by building with construction parts.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/forest_game.jpeg">
+Forest Game: A build up game with natural materials.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/la_diana.jpeg">
+La Diana: Throwing stones to the target.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/modular_furniture.jpeg">
+Modular Furniture: Building furniture game that you can stand on it.
