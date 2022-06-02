@@ -99,3 +99,4 @@ See below:
 https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg
 https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg
 https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/forest_game.jpeg
+https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/la_diana.jpeg
