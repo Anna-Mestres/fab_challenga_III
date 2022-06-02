@@ -97,3 +97,4 @@ We laser cut the drawings that we made on illustrator and cut them into 25cm x 2
 We took 360• pictures of the games we are using for the Gymkhana.
 See below:
 https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg
+https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg
