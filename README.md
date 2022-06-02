@@ -5,7 +5,7 @@
 >Goal:
 Recreate the route and information online of the Gymkhana for the MDEF Fest.
 
-![system diagram](images/<img width="509" alt="Gymkhana" src="https://user-images.githubusercontent.com/92103119/171649761-b6ba7c45-a9b5-4776-8747-e48af74fe0d3.png">
+<img width="509" alt="Gymkhana" src="https://user-images.githubusercontent.com/92103119/171649761-b6ba7c45-a9b5-4776-8747-e48af74fe0d3.png">
 
 ## Areas of Interest
 
