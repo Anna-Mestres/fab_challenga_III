@@ -90,6 +90,6 @@ For the posters, Kai made some drawings in the ipad and after it they edited it 
 <img width="847" alt="Gymkhana2" src="https://user-images.githubusercontent.com/92103119/171652008-9f73b3fd-a893-47ea-b84a-8f086e138472.png">
 
 ## Design the Posters
-![Design1](https://user-images.githubusercontent.com/92103119/171656612-0bc1db0f-dde0-4894-baac-c657dcf26521.png)
+<img width="600" src="https://user-images.githubusercontent.com/92103119/171656612-0bc1db0f-dde0-4894-baac-c657dcf26521.png">
 We laser cut the drawings that we made on illustrator and cut them into 25cm x 25 cm piece of wood.
 
