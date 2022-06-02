@@ -96,8 +96,8 @@ We laser cut the drawings that we made on illustrator and cut them into 25cm x 2
 ## Pictures 360•
 We took 360• pictures of the games we are using for the Gymkhana.
 See below:
-https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg
-https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg
-https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/forest_game.jpeg
-https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/la_diana.jpeg
-https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/modular_furniture.jpeg
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/crosshabit.jpeg">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/forest_game.jpeg">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/la_diana.jpeg">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/modular_furniture.jpeg">
