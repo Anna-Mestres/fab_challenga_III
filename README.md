@@ -84,8 +84,11 @@ For test 1, Josep gave us a 360• camera that we had to test to see if it worke
 
 
 
-## Drawing the posters
+## Drawing the Posters
 
 For the posters, Kai made some drawings in the ipad and after it they edited it in illsutrator. We decided to do this posters to use them as an indicator in the in-person Gymkhana for the MDEFest. The drawings are very childish so kids can understand it better and can play. 
 <img width="847" alt="Gymkhana2" src="https://user-images.githubusercontent.com/92103119/171652008-9f73b3fd-a893-47ea-b84a-8f086e138472.png">
+
+## Design the Posters
+
 
