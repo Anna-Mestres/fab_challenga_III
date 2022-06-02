@@ -32,13 +32,13 @@ The idea comes from wanting to connect other people who do not have the opportun
 ### Steps
 
   1. [Materials and Digital Fabrication](https://github.com/Anna-Mestres/fab_challenge_IV#materials-and-digital-fabrication)
-  2. [Brainstorming](https://github.com/Anna-Mestres/fab_challenge_I#brainstorming)
-  3. [Test 1](https://github.com/Anna-Mestres/fab_challenge_I#test-1)
-  4. [Drawings the Posters](https://github.com/Anna-Mestres/fab_challenge_I#drawing-the-posters)
-  6. [Design Posters](https://github.com/Anna-Mestres/fab_challenge_I#design-posters)
-  7. [Pictures 360](https://github.com/Anna-Mestres/fab_challenge_I#pictures-360)
-  8. [First interaction website](https://github.com/Anna-Mestres/fab_challenge_I#first-interaction-website)
-  9. [Final Design](https://github.com/Anna-Mestres/fab_challenge_I#final-design)
+  2. [Brainstorming](https://github.com/Anna-Mestres/fab_challenge_IV#brainstorming)
+  3. [Test 1](https://github.com/Anna-Mestres/fab_challenge_IV#test-1)
+  4. [Drawing the Posters](https://github.com/Anna-Mestres/fab_challenge_IV#drawing-the-posters)
+  6. [Designing the Posters](https://github.com/Anna-Mestres/fab_challenge_IV#designing-the-posters)
+  7. [Pictures 360](https://github.com/Anna-Mestres/fab_challenge_IV#pictures-360)
+  8. [First interaction with the website](https://github.com/Anna-Mestres/fab_challenge_IV#first-interaction-with-the-website)
+  9. [Final Design](https://github.com/Anna-Mestres/fab_challenge_IV#final-design)
 
 
 ## Materials and Digital Fabrication
@@ -88,7 +88,7 @@ For test 1, Josep gave us a 360• camera that we had to test to see if it worke
 For the posters, Kai made some drawings in the ipad and after it they edited it in illsutrator. We decided to do this posters to use them as an indicator in the in-person Gymkhana for the MDEFest. The drawings are very childish so kids can understand it better and can play. 
 <img width="847" alt="Gymkhana2" src="https://user-images.githubusercontent.com/92103119/171652008-9f73b3fd-a893-47ea-b84a-8f086e138472.png">
 
-## Design the Posters
+## Designing the Posters
 <img width="600" src="https://user-images.githubusercontent.com/92103119/171656612-0bc1db0f-dde0-4894-baac-c657dcf26521.png">
 We laser cut the drawings that we made on illustrator and cut them into 25cm x 25 cm piece of wood.
 
@@ -106,7 +106,7 @@ La Diana: Throwing stones to the target.
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/modular_furniture.jpeg">
 Modular Furniture: Building furniture game that you can stand on it.
 
-## Interaction with Website
+## First Interaction with the Website
 Building up a website that we didn't knew about it was very interesting.
 At first, when we try it, we uploaded pitures that weren't with the properties that the website asked and it didn'r work. 
 We starte using the 360• camera. 
