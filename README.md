@@ -5,7 +5,7 @@
 >Goal:
 Recreate the route and information online of the Gymkhana for the MDEF Fest.
 
-![system diagram](images/design.jpeg)
+![system diagram](images/<img width="627" alt="Modular furniture" src="https://user-images.githubusercontent.com/92103119/171649100-ec6ef08b-f79d-469b-923b-0491a5b8fb3a.png">)
 
 ## Areas of Interest
 
