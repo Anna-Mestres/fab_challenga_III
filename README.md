@@ -13,7 +13,7 @@ Recreate the route and information online of the Gymkhana for the MDEF Fest.
 
 ## Initial Idea
 
-For the MDEF we want to connect our projects (Anna, Borka & Kai) and show it in an interactive way. Since we all work with children and games. So, we have decided to create a gymkhana, apart from the other activities that will be done, with our toys.
+For the MDEF we want to connect our projects (Anna, Borka & Kai) and show it in an interactive way, since we all work with children and games. So, we have decided to create a Gymkhana, apart from the other activities that will be done, with our toys.
 
 Gymkhana: an equestrian day event comprising races and other competitions on horseback, typically for children.
 
