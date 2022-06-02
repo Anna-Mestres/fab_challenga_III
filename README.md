@@ -93,3 +93,6 @@ For the posters, Kai made some drawings in the ipad and after it they edited it 
 <img width="600" src="https://user-images.githubusercontent.com/92103119/171656612-0bc1db0f-dde0-4894-baac-c657dcf26521.png">
 We laser cut the drawings that we made on illustrator and cut them into 25cm x 25 cm piece of wood.
 
+## Pictures 360•
+We took 360• pictures of the games we are using for the Gymkhana.
+See below:
