@@ -80,3 +80,12 @@ The games we are going to present will be:
 | 6 | Forest Game | Park | Anna |
 
 ## Test 1
+
+
+
+
+## Drawing the posters
+
+For the posters, Kai made some drawings in the ipad
+<img width="847" alt="Gymkhana2" src="https://user-images.githubusercontent.com/92103119/171652008-9f73b3fd-a893-47ea-b84a-8f086e138472.png">
+
