@@ -114,7 +114,9 @@ We modified de website by coding and javascript, changing the colors and the for
 We didi an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't minf but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by drawing on it. Sorry, Nikkita!
 At the end, the page looks great!
 
-** Picttures of website development **
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/initial.png">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/nikita.png">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/nikita2.png">
 
 ## Final Design 
 Below, our welcoming page and one of the games.
