@@ -108,15 +108,19 @@ Modular Furniture: Building furniture game that you can stand on it.
 
 ## First Interaction with the Website
 Building up a website that we didn't knew about it was very interesting.
-At first, when we try it, we uploaded pitures that weren't with the properties that the website asked and it didn'r work. 
-We starte using the 360• camera. 
-We modified de website by coding and javascript, changing the colors and the format of it.
-We didi an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't minf but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by drawing on it. Sorry, Nikkita!
+At first, when we try it, we uploaded pitures that weren't with the properties that the website asked and it didn't work. 
+We started using the 360• camera. 
+We modified the website by coding on css, changing the colors and the format of it.
+We did an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't mind it but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by editing on it with photoshop. Sorry, Nikkita!
 At the end, the page looks great!
 
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/initial.png">
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/nikita.png">
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/nikita2.png">
+
+## Add Video
+
+
 
 ## Final Design 
 Below, our welcoming page and one of the games.
