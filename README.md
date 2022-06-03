@@ -38,7 +38,8 @@ The idea comes from wanting to connect other people who do not have the opportun
   6. [Designing the Posters](https://github.com/Anna-Mestres/fab_challenge_IV#designing-the-posters)
   7. [Pictures 360](https://github.com/Anna-Mestres/fab_challenge_IV#pictures-360)
   8. [First interaction with the website](https://github.com/Anna-Mestres/fab_challenge_IV#first-interaction-with-the-website)
-  9. [Final Design](https://github.com/Anna-Mestres/fab_challenge_IV#final-design)
+  9. [Add Video](https://github.com/Anna-Mestres/fab_challenge_IV#add-video)
+  10. [Final Design](https://github.com/Anna-Mestres/fab_challenge_IV#final-design)
 
 
 ## Materials and Digital Fabrication
@@ -79,20 +80,29 @@ The games we are going to present will be:
 | 6 | Forest Game | Park | Anna |
 
 ## Test 1
-For test 1, Josep gave us a 360• camera that we had to test to see if it worked for the things that we were imagining. We test it at 
+
+For test 1, Josep gave us a 360• camera that we had to test to see if it worked for the things that we were imagining. We test it at
+
 <img width="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/class.jpeg">
 
+We then tried to upload the image to check that everything was working correctly and to have a first taste of the website.
+
+<img width="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/try-class.png">
 
 ## Drawing the Posters
 
-For the posters, Kai made some drawings in the ipad and after it they edited it in illsutrator. We decided to do this posters to use them as an indicator in the in-person Gymkhana for the MDEFest. The drawings are very childish so kids can understand it better and can play. 
+For the posters, Kai made some drawings in the ipad and after it they edited it in illsutrator. We decided to do this posters to use them as an indicator in the in-person Gymkhana for the MDEFest. The drawings are very childish so kids can understand it better and can play.
+
 <img width="847" alt="Gymkhana2" src="https://user-images.githubusercontent.com/92103119/171652008-9f73b3fd-a893-47ea-b84a-8f086e138472.png">
 
 ## Designing the Posters
+
 <img width="600" src="https://user-images.githubusercontent.com/92103119/171656612-0bc1db0f-dde0-4894-baac-c657dcf26521.png">
+
 We laser cut the drawings that we made on illustrator and cut them into 25cm x 25 cm piece of wood.
 
 ## Pictures 360•
+
 We took 360• pictures of the games we are using for the Gymkhana.
 See below:
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/anillas.jpeg">
@@ -107,19 +117,46 @@ La Diana: Throwing stones to the target.
 Modular Furniture: Building furniture game that you can stand on it.
 
 ## First Interaction with the Website
+
 Building up a website that we didn't knew about it was very interesting.
-At first, when we try it, we uploaded pitures that weren't with the properties that the website asked and it didn'r work. 
-We starte using the 360• camera. 
-We modified de website by coding and javascript, changing the colors and the format of it.
-We didi an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't minf but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by drawing on it. Sorry, Nikkita!
+At first, when we try it, we uploaded pictures that weren't with the properties that the website asked and it didn't work.
+We started using the 360• camera.
+
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/first.png">
+
+We modified de website by coding and JavaScript, changing the colours and the format of it.
+We did an error taking the pictures that we noticed when we uploaded it on the website. We took a picture of ourselves to put it and one of our classmates was in it clearly smoking. we don't mind but since we are working with parents and kids, instead of deleting the picture and taking another one, we cover it by drawing on it. Sorry, Nikkita!
 At the end, the page looks great!
 
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/initial.png">
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/nikita.png">
-<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/nikita2.png">
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/nikita3.png">
 
-## Final Design 
+## Add Video
+
+Our idea was to implement, apart from the information and guide arrows, some help videos to understand the different games. For this we discovered that in Marzipano's demos there is a repository where he creates a frame with videos linked to youtube. The repository is called [embedded hotspot](https://www.marzipano.net/demos/embedded-hotspots/), and here you can find the [repository](https://github.com/google/marzipano/tree/master/demos/embedded-hotspots) of it.
+
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/video1.png">
+
+
+We tried to implement it with Santi and Xavi, but it was impossible. We changed the code and tried to modify from other repositories, but it was impossible. We deduced that the error was based on the initial JavaScript that is automatically developed by the Marzipano tool.
+
+Then Xavi discovered this website that uses Marzipano's tool and implements videos in different spaces and also different images with links. Which is more than what we want to do.
+[Web Site](https://download.oscvev.de/vchorfest/360/)
+[Repository](https://github.com/AndiMb/virtuellesChorfest/tree/master/public_html)
+
+<img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/video2.png">
+
+We tried with Pietro to implement the functions of the code that allowed us to place a video, but it didn't work.
+
+There would be the option of trying to do the process in reverse, as Xavi says. Clone his code that works and change the images and information with ours. But at the same time we know that it is not essential. So we will value the time we have and the work, and with that we will try to implement it.
+
+## Final Design
+
+This is the website of [The Gymkhana](https://anna-mestres.github.io/gymkhana/).
+
 Below, our welcoming page and one of the games.
-<img width="1436" alt="Portada" src="https://user-images.githubusercontent.com/92103119/171667178-e00d98cc-afa4-450d-82b9-4f3e5dfcdecd.png">
-<img width="1437" alt="Screen Shot 2022-06-02 at 17 38 23" src="https://user-images.githubusercontent.com/92103119/171667250-e03af7b8-e132-4cfa-8a08-2a4beb7679eb.png">
 
+<img width="1436" alt="Portada" src="https://user-images.githubusercontent.com/92103119/171667178-e00d98cc-afa4-450d-82b9-4f3e5dfcdecd.png">
+
+<img width="1437" alt="Screen Shot 2022-06-02 at 17 38 23" src="https://user-images.githubusercontent.com/92103119/171667250-e03af7b8-e132-4cfa-8a08-2a4beb7679eb.png">
