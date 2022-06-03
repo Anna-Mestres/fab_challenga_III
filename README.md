@@ -87,7 +87,7 @@ For test 1, Josep gave us a 360• camera that we had to test to see if it worke
 
 We then tried to upload the image to check that everything was working correctly and to have a first taste of the website.
 
-<img width="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/360/try-class.png">
+<img width="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/try-class.png">
 
 ## Drawing the Posters
 
@@ -142,7 +142,9 @@ Our idea was to implement, apart from the information and guide arrows, some hel
 We tried to implement it with Santi and Xavi, but it was impossible. We changed the code and tried to modify from other repositories, but it was impossible. We deduced that the error was based on the initial JavaScript that is automatically developed by the Marzipano tool.
 
 Then Xavi discovered this website that uses Marzipano's tool and implements videos in different spaces and also different images with links. Which is more than what we want to do.
+
 [Web Site](https://download.oscvev.de/vchorfest/360/)
+
 [Repository](https://github.com/AndiMb/virtuellesChorfest/tree/master/public_html)
 
 <img widht="600" src="https://github.com/Anna-Mestres/fab_challenge_IV/blob/main/images/video2.png">
