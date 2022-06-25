@@ -27,6 +27,8 @@ The idea comes from wanting to connect other people who do not have the opportun
 
 ![Our plan](images/plan.png)
 
+We decided to create this digital Gymkhana because we wanted to included people that couldn't join us in the activity of our Gymkhana. Our long term dissemination plan is that this web stays up and can have a link to our personal web that talk about toys for kids and that they are an open information source for everyone. Somehow showing them that there exist opportunities in how to make toys with trash and where is this information. 
+
 # Process
 
 ### Steps
